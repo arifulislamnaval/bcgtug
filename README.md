@@ -1,7 +1,7 @@
 # 🚤 2 × 60 Ton Bollard Pull ASD Tug Boat
 
 <p align="center">
-  <img src="./bcgtug.jpg" alt="60 Ton Bollard Pull ASD Tug Boat" width="100%">
+  <img src="./tugbcg.jpg" alt="60 Ton Bollard Pull ASD Tug Boat" width="100%">
 </p>
 
 <h2 align="center">2 × 60 Ton Bollard Pull ASD Tug Boat</h2>
