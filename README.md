@@ -27,32 +27,14 @@ My responsibilities covered **design review, engineering coordination, design ma
 | **Client** | Bangladesh Coast Guard |
 |:-----------|:-----------------------|
 | **Project** | 2 × 60 Ton Bollard Pull ASD Tug Boat |
-| **Role** | Naval Architect |
 | **Length Overall (LOA)** | **30.0 m** |
-| **Length Waterline (LWL)** | **26.3 m** |
-| **Length Between Perpendiculars (LBP)** | **27.5 m** |
 | **Breadth (Moulded)** | **10.43 m** |
 | **Depth (Moulded)** | **4.5 m** |
-| **Maximum Draught** | **4.8 m** |
 | **Bollard Pull** | **60 t Ahead / 55 t Astern** |
 | **Delivery** | **2022** |
 
 ---
 
-# ⚓ Operational Functions
-
-## Primary Functions
-
-- Assist vessels of up to **3,500 tons (full load)** during **berthing, unberthing, turning, and harbour manoeuvring** through push/pull and alongside towing.
-- Provide **escort towing** for Bangladesh Coast Guard and other surface vessels.
-- Conduct **external firefighting operations** from a safe stand-off distance of **100 metres or more**.
-- Support **marine pollution response** by deploying dispersants in ports, rivers, and coastal waters.
-
-## Secondary Functions
-
-- Provide towing and operational assistance during **marine salvage operations** involving stranded or sunken vessels.
-
----
 
 # 👨‍💼 Engineering Contributions
 
