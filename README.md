@@ -29,8 +29,8 @@ My responsibilities covered **design review, engineering coordination, design ma
 | **Project** | 2 × 60 Ton Bollard Pull ASD Tug Boat |
 | **Length Overall (LOA)** | **30.0 m** |
 | **Breadth (Moulded)** | **10.43 m** |
-| **Depth (Moulded)** | **4.5 m** |
-| **Bollard Pull** | **60 t Ahead / 55 t Astern** |
+| **Depth (Moulded)** | **4.6 m** |
+| **Bollard Pull** | **60 ton** |
 | **Delivery** | **2022** |
 
 ---
